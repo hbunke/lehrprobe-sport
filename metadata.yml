@@ -1,0 +1,29 @@
+'@context': https://schema.org/
+creativeWorkStatus: Published
+type: LearningResource
+name: >-
+  Unterrichtsentwurf für eine Lehrprobe im Fach Sport: Passen in Bewegung im
+  Fußball
+description: Lehrprobe Sport
+license: https://creativecommons.org/licenses/by/4.0
+id: https://github.com/hbunke/lehrprobe-sport
+creator:
+  - givenName: Hendrik
+    familyName: Bunke
+    id: 0000-0002-1516-2382
+    type: Person
+keywords:
+  - OER
+  - Schule
+inLanguage:
+  - de
+about:
+  - https://w3id.org/kim/hochschulfaechersystematik/n029
+  - https://w3id.org/kim/hochschulfaechersystematik/n052
+learningResourceType:
+  - https://w3id.org/kim/hcrt/text
+educationalLevel:
+  - https://w3id.org/kim/educationalLevel/level_A
+  - https://w3id.org/kim/educationalLevel/level_B
+  - https://w3id.org/kim/educationalLevel/level_C
+datePublished: '2019-10-19'
