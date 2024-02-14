@@ -15,7 +15,7 @@ sich in `0.gesamt.pdf`. Ausgangsdatei für die Tex Kompilierung ist
 
 Das ganze Paket steht unter CC-BY Lizenz, ihr dürft also alles benutzen,
 weiterverarbeiten und veröffentlichen, so lange ihr mich als Urheber dabei
-benennt. Bewertet wurde das Ganze von den Prüfer*innen mit der Note 1,2; eventuell sind also ein paar brauchbare Ideen drin ;-).
+benennt.
 
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
